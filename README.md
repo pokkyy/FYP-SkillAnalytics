@@ -19,6 +19,17 @@ expansion.
 2. Conducting association rule analysis to identify factors influencing the mismatch between highest academic qualification and job requirements.
 3. Investigating how individuals address the skill gap when they lack the necessary qualifications for their current profession.
 
+# Dataset
+Dataset collected from the PIAAC Public Use Files (PUFs) in CSV format. Link: https://webfs.oecd.org/piaac/puf-data/CSV/
+
+Codebook collected from OECD website (https://www.oecd.org/en/data/datasets/PIAAC-1st-Cycle-Database.html)
+
+Datasets used:
+-  prgjpnp1.csv
+-  prgkazp1.csv
+-  prgkorp1.csv
+-  prgsgpp1.csv
+
 # Files
 - PIAAC_EDA.ipynb : Exploratory Data Analysis
 - PIAAC_RO1.ipynb : Solving the first research objective
