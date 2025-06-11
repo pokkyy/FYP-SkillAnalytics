@@ -31,9 +31,9 @@ Datasets used:
 -  prgsgpp1.csv
 
 # Files
+- PIAAC_prep.ipynb : Preprocessing - Cleaning the data
+- PIAAC_prep2.ipynb: Preprocessing - Feature selection
 - PIAAC_EDA.ipynb : Exploratory Data Analysis
 - PIAAC_RO1.ipynb : Solving the first research objective
 - PIAAC_RO1_CVV.ipynb : Solving the first research objective
 - PIAAC_RO2.ipynb : Solving the second research objective
-- PIAAC_prep.ipynb : Preprocessing - Cleaning the data
-- PIAAC_prep2.ipynb: Preprocessing - Feature selection
